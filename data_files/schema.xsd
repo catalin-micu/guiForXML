@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<xs:schema xmlns:xs = "http://www.w3.org/2001/XMLSchema" attributeFormDefault="unqualified" elementFormDefault="unqualified">
+
+	<xs:element name="evidenta_spectacolelor">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="spectacol" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	
+	<xs:element name="spectacol">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="titlu_spectacol"/>
+				<xs:element ref="adresa"/>
+				<xs:element ref="participanti"/>
+				<xs:element ref="pret_bilet" maxOccurs="unbounded"/>
+				<xs:element ref="data"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	
+	<xs:element name="participanti">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="comediant" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	
+	<xs:element name="comediant">
+		<xs:complexType>
+			<xs:simpleContent>
+				<xs:extension base="xs:string">
+					<xs:attribute type="xs:string" name="tip"/>
+				</xs:extension>
+			</xs:simpleContent>
+		</xs:complexType>
+	</xs:element>
+
+	
+	<xs:complexType name="BILET">
+		<xs:simpleContent>
+			<xs:extension base="xs:string">
+				<xs:attribute name="moneda">
+					<xs:simpleType>
+						<xs:restriction base="xs:string">
+							<xs:enumeration value="ron"/>
+							<xs:enumeration value="eur"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:attribute>
+			</xs:extension>
+		</xs:simpleContent>
+	</xs:complexType>
+	
+	
+	<xs:element name="data">
+		<xs:complexType mixed="true">
+			<xs:sequence>
+				<xs:element type="xs:string" name="ora"/>
+			</xs:sequence>
+		<xs:attribute type="xs:string" name="format"/>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:element name="titlu_spectacol" type="xs:string"/>
+	<xs:element name="adresa" type="xs:string"/>
+	<xs:element name="ora" type="xs:string"/>
+	<xs:element name="pret_bilet" type="BILET_EXT"/>
+	
+	
+		<xs:complexType name="BILET_EXT">
+		<xs:complexContent>
+			<xs:extension base="BILET">
+				<xs:attribute type="xs:string" name="tip"/>
+			</xs:extension>
+		</xs:complexContent>
+	</xs:complexType>
+	
+	
+</xs:schema>

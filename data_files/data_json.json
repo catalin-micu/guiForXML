@@ -1,0 +1,353 @@
+{
+   "evidenta_spectacolelor":[
+      {
+         "titlu":"Zambete si empatie",
+         "adresa":"Strada Ion Campineanu 28, Bucuresti 010039, Romania - Sala Palatului",
+         "data":"2019-12-06",
+         "ora":"19:00",
+         "participanti":[
+            {
+               "comediant":"Cosmin Nedelcu Micutzu",
+               "rol_in_spectacol":"headliner"
+            },
+            {
+               "comediant":"Vio",
+               "rol_in_spectacol":"opener"
+            },
+            {
+               "comediant":"Nae Nicolae",
+               "rol_in_spectacol":"opener"
+            }
+         ],
+         "preturi":[
+            {
+               "tip":"LOJA",
+               "moneda":"ron",
+               "pret":200
+            },
+            {
+               "tip":"SALA",
+               "moneda":"ron",
+               "pret":100
+            }
+         ]
+      },
+      {
+         "titlu":"Despre ce vorbim",
+         "adresa":"Strada Ion Campineanu 28, Bucuresti 010039, Romania - Sala Palatului",
+         "data":"2019-03-07",
+         "ora":"19:00",
+         "participanti":[
+            {
+               "comediant":"Teo",
+               "rol_in_spectacol":"headliner"
+            },
+            {
+               "comediant":"Vio",
+               "rol_in_spectacol":"headliner"
+            },
+            {
+               "comediant":"Costel",
+               "rol_in_spectacol":"headliner"
+            },
+            {
+               "comediant":"George Tanase",
+               "rol_in_spectacol":"opener"
+            },
+            {
+               "comediant":"Nae Nicolae",
+               "rol_in_spectacol":"opener"
+            }
+         ],
+         "preturi":[
+            {
+               "tip":"LOJA",
+               "moneda":"ron",
+               "pret":200
+            },
+            {
+               "tip":"SALA",
+               "moneda":"ron",
+               "pret":100
+            }
+         ]
+      },
+      {
+         "titlu":"Stand-Up Comedy cu Bobonete, Dita, Rait, Vancica",
+         "adresa":"Strada Ion Campineanu 28, Bucuresti 010039, Romania - Sala Palatului",
+         "data":"2019-12-07",
+         "ora":"20:00",
+         "participanti":[
+            {
+               "comediant":"Mihai Bobonete",
+               "rol_in_spectacol":"headliner"
+            },
+            {
+               "comediant":"Adrian Vancica",
+               "rol_in_spectacol":"headliner"
+            },
+            {
+               "comediant":"Constantin Dita",
+               "rol_in_spectacol":"headliner"
+            },
+            {
+               "comediant":"Mihai Rait",
+               "rol_in_spectacol":"headliner"
+            }
+         ],
+         "preturi":[
+            {
+               "tip":"LOJA",
+               "moneda":"ron",
+               "pret":250
+            },
+            {
+               "tip":"SALA",
+               "moneda":"ron",
+               "pret":175
+            }
+         ]
+      },
+      {
+         "titlu":"Partidul Comediantilor Romani la Sala Palatului",
+         "adresa":"Strada Ion Campineanu 28, Bucuresti 010039, Romania - Sala Palatului",
+         "data":"2019-11-04",
+         "ora":"20:00",
+         "participanti":[
+            {
+               "comediant":"headliner",
+               "rol_in_spectacol":"Catalin Bordea"
+            },
+            {
+               "comediant":"headliner",
+               "rol_in_spectacol":"Cosmin Nedelcu Micutzu"
+            }
+         ],
+         "preturi":[
+            {
+               "tip":"LOJA",
+			   "moneda":"ron",
+               "pret":197
+            },
+            {
+               "tip":"SALA",
+			   "moneda":"ron",
+               "pret":99
+            }
+         ]
+      },
+      {
+         "titlu":"AM COPIII ASTIA SI…",
+         "adresa":"Strada Ion Campineanu 28, Bucuresti 010039, Romania - Sala Palatului",
+         "data":"2020-02-10",
+         "ora":"19:30",
+         "participanti":[
+            {
+               "comediant":"Sorin Parcalab",
+               "rol_in_spectacol":"headliner"
+            },
+            {
+               "comediant":"Cristi Popesco",
+               "rol_in_spectacol":"opener"
+            },
+            {
+               "comediant":"Radu Bucale",
+               "rol_in_spectacol":"opener"
+            }
+         ],
+         "preturi":[
+            {
+               "tip":"LOJA",
+               "moneda":"ron",
+               "pret":197
+            },
+            {
+               "tip":"SALA",
+               "moneda":"ron",
+               "pret":99
+            }
+         ]
+      },
+      {
+         "titlu":"Show de Stand-up comedy cu Sorin Parcalab, Bucalae și Micutzu",
+         "adresa":"Calea Plevnei 61, Bucuresti 010236 - Casa de Cultura a Studentilor",
+         "data":"2020-11-7",
+         "ora":"20:30",
+         "participanti":[
+            {
+               "comediant":"Sorin Parcalab",
+               "rol_in_spectacol":"headliner"
+            },
+            {
+               "comediant":"Radu Bucalae",
+               "rol_in_spectacol":"headliner"
+            },
+            {
+               "comediant":"Cosmin Nedelcu Micutzu",
+               "rol_in_spectacol":"headliner"
+            },
+            {
+               "comediant":"George Tanase",
+               "rol_in_spectacol":"opener"
+            },
+            {
+               "comediant":"Ionut Rusu",
+               "rol_in_spectacol":"opener"
+            }
+         ],
+         "preturi":[
+            {
+               "tip":"SALA",
+               "moneda":"ron",
+               "pret":55
+            }
+         ]
+      },
+      {
+         "titlu":"Targu Mures: Stand-up Comedy cu Bucalae, Tanase, State",
+         "adresa":"Strada Plopilor 12, Targu Mures - Uzina Foto",
+         "data":"2020-09-10",
+         "ora":"21:00",
+         "participanti":[
+            {
+               "comediant":"Radu Bucalae",
+               "rol_in_spectacol":"headliner"
+            },
+            {
+               "comediant":"George Tanase",
+               "rol_in_spectacol":"headliner"
+            },
+            {
+               "comediant":"State",
+               "rol_in_spectacol":"headliner"
+            }
+         ],
+         "preturi":[
+            {
+               "tip":"SALA",
+               "moneda":"ron",
+               "pret":35
+            }
+         ]
+      },
+      {
+         "titlu":"STRICAM O GENERATIE",
+         "adresa":"Bulevardul Stirbei Voda 32, Craiova - Sala Polivalenta",
+         "data":"2020-10-07",
+         "ora":"20:00",
+         "participanti":[
+            {
+               "comediant":"Dan Badea",
+               "rol_in_spectacol":"headliner"
+            },
+            {
+               "comediant":"Catalin Bordea",
+               "rol_in_spectacol":"headliner"
+            },
+            {
+               "comediant":"Cosmin Nedelcu Micutzu",
+               "rol_in_spectacol":"headliner"
+            }
+         ],
+         "preturi":[
+            {
+               "tip":"LOJA",
+               "moneda":"ron",
+               "pret":120
+            },
+            {
+               "tip":"SALA",
+               "moneda":"ron",
+               "pret":50
+            }
+         ]
+      },
+      {
+         "titlu":"Bacau: Stand-up Comedy cu Micutzu, Geo, Mirica si Cirje",
+         "adresa":"Strada Erou Gheorghe Rusu 2, Bacau 600036 - Beraria Valhalla",
+         "data":"2020-10-07",
+         "ora":"20:00",
+         "participanti":[
+            {
+               "comediant":"Cosmin Nedelcu Micutzu",
+               "rol_in_spectacol":"headliner"
+            },
+            {
+               "comediant":"George Adrian",
+               "rol_in_spectacol":"opener"
+            },
+            {
+               "comediant":"Sergiu Mirica",
+               "rol_in_spectacol":"opener"
+            },
+            {
+               "comediant":"Cirje",
+               "rol_in_spectacol":"opener"
+            }
+         ],
+         "preturi":[
+            {
+               "tip":"LOJA",
+               "moneda":"ron",
+               "pret":120
+            },
+            {
+               "tip":"SALA",
+               "moneda":"ron",
+               "pret":50
+            }
+         ]
+      },
+      {
+         "titlu":"In aer liber",
+         "adresa":"Bulevardul Stirbei Voda 32, Craiova - Esplanada Salii Polivalente",
+         "data":"2020-07-14",
+         "ora":"21:30",
+         "participanti":[
+            {
+               "comediant":"Dan Badea",
+               "rol_in_spectacol":"headliner"
+            },
+            {
+               "comediant":"Bogdan Malaele",
+               "rol_in_spectacol":"opener"
+            }
+         ],
+         "preturi":[
+            {
+               "tip":"afara",
+               "moneda":"ron",
+               "pret":120
+            }
+         ]
+      },
+      {
+         "titlu":"Malaele Special",
+         "adresa":"Strada Sfantul Dumitru 2, Bucuresti 030079 - Teatrul de comedie",
+         "data":"2021-05-11",
+         "ora":"18:30",
+         "participanti":[
+            {
+               "comediant":"Horatiu Malaele",
+               "rol_in_spectacol":"headliner"
+            },
+            {
+               "comediant":"Bogdan Malaele",
+               "rol_in_spectacol":"headliner"
+            }
+         ],
+         "preturi":[
+            {
+               "tip":"LOJA",
+               "moneda":"ron",
+               "pret":134
+            },
+            {
+               "tip":"SALA",
+               "moneda":"ron",
+               "pret":124
+            }
+         ]
+      }
+   ]
+}

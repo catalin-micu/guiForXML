@@ -1,0 +1,360 @@
+<!DOCTYPE evidenta_spectacolelor SYSTEM "342A3_MICU_standup">
+<evidenta_spectacolelor>
+
+	<spectacol>
+		<titlu_spectacol>
+			Zambete si empatie
+		</titlu_spectacol>
+		<adresa>
+			Strada Ion Câmpineanu 28, București 010039, Romania - Sala Palatului
+		</adresa>
+		<participanti>
+			<comediant tip="headliner">
+				Cosmin Nedelcu Micutzu
+			</comediant>
+			<comediant tip="opener">
+				Vio
+			</comediant>
+			<comediant tip="opener">
+				Nae Nicolae
+			</comediant>
+		</participanti>
+		<pret_bilet tip="loja" moneda="ron">
+			200
+		</pret_bilet>
+		<pret_bilet tip="sala" moneda="ron">
+			100
+		</pret_bilet>
+		<data format="iso">
+			2019-12-06
+			<ora>
+				 19:00
+			</ora>
+		</data>
+	</spectacol>
+	
+	<spectacol>
+		<titlu_spectacol>
+			Despre ce vorbim
+		</titlu_spectacol>
+		<adresa>
+			Strada Ion Câmpineanu 28, București 010039, Romania - Sala Palatului
+		</adresa>
+		<participanti>
+			<comediant tip="headliner">
+				Teo
+			</comediant>
+			<comediant tip="headliner">
+				Vio
+			</comediant>
+			<comediant tip="headliner">
+				Costel
+			</comediant>
+			
+			<comediant tip="opener">
+				George Tanase
+			</comediant>
+			<comediant tip="opener">
+				Nae Nicolae
+			</comediant>
+		</participanti>
+		<pret_bilet tip="loja" moneda="ron">
+			200
+		</pret_bilet>
+		<pret_bilet tip="sala" moneda="ron">
+			100
+		</pret_bilet>
+		<data format="iso">
+			2019-03-07
+			<ora>
+				 19:00
+			</ora>
+		</data>
+	</spectacol>
+	
+	<spectacol>
+		<titlu_spectacol>
+			Stand-Up Comedy cu Bobonete, Dita, Rait, Vancica
+		</titlu_spectacol>
+		<adresa>
+			Strada Ion Câmpineanu 28, București 010039, Romania - Sala Palatului
+		</adresa>
+		<participanti>
+			<comediant tip="headliner">
+				Mihai Bobonete
+			</comediant>
+			<comediant tip="headliner">
+				Adrian Vancica
+			</comediant>
+			<comediant tip="headliner">
+				Constantin Dita
+			</comediant>
+			<comediant tip="headliner">
+				Mihai Rait
+			</comediant>
+		</participanti>
+		<pret_bilet tip="loja" moneda="ron">
+			250
+		</pret_bilet>
+		<pret_bilet tip="sala" moneda="ron">
+			175
+		</pret_bilet>
+		<data format="iso">
+			2019-12-07
+			<ora>
+				 20:00
+			</ora>
+		</data>
+	</spectacol>
+	
+	<spectacol>
+		<titlu_spectacol>
+			Partidul Comediantilor Romani la Sala Palatului
+		</titlu_spectacol>
+		<adresa>
+			Strada Ion Câmpineanu 28, București 010039, Romania - Sala Palatului
+		</adresa>
+		<participanti>
+			<comediant tip="headliner">
+				Catalin Bordea
+			</comediant>
+			<comediant tip="headliner">
+				Cosmin Nedelcu Micutzu
+			</comediant>
+		</participanti>
+		<pret_bilet tip="loja" moneda="ron">
+			197
+		</pret_bilet>
+		<pret_bilet tip="sala" moneda="ron">
+			99
+		</pret_bilet>
+		<data format="iso">
+			2019-11-04
+			<ora>
+				 20:00
+			</ora>
+		</data>
+	</spectacol>
+	
+	<spectacol>
+		<titlu_spectacol>
+			AM COPIII ASTIA SI…
+		</titlu_spectacol>
+		<adresa>
+			Strada Ion Câmpineanu 28, București 010039, Romania - Sala Palatului
+		</adresa>
+		<participanti>
+			<comediant tip="headliner">
+				Sorin Parcalab
+			</comediant>
+			<comediant tip="opener">
+				Cristi Popesco
+			</comediant>
+			<comediant tip="opener">
+				Radu Bucale
+			</comediant>
+		</participanti>
+		<pret_bilet tip="loja" moneda="ron">
+			197
+		</pret_bilet>
+		<pret_bilet tip="sala" moneda="ron">
+			99
+		</pret_bilet>
+		<data format="iso">
+			2020-02-10
+			<ora>
+				 19:30
+			</ora>
+		</data>
+	</spectacol>
+	
+	<spectacol>
+		<titlu_spectacol>
+			Show de Stand-up comedy cu Sorin Parcalab, Bucalae și Micutzu
+		</titlu_spectacol>
+		<adresa>
+			Calea Plevnei 61, București 010236 - Casa de Cultura a Studentilor
+		</adresa>
+		<participanti>
+			<comediant tip="headliner">
+				Sorin Parcalab
+			</comediant>
+			<comediant tip="headliner">
+				Radu Bucalae
+			</comediant>
+			<comediant tip="headliner">
+				Cosmin Nedelcu Micutzu
+			</comediant>
+			
+			<comediant tip="opener">
+				George Tanase
+			</comediant>
+			<comediant tip="opener">
+				Ionut Rusu
+			</comediant>
+		</participanti>
+		<pret_bilet tip="sala" moneda="ron">
+			55
+		</pret_bilet>
+		<data format="iso">
+			2020-11-07
+			<ora>
+				 20:30
+			</ora>
+		</data>
+	</spectacol>
+	
+	<spectacol>
+		<titlu_spectacol>
+			Targu Mures: Stand-up Comedy cu Bucalae, Tanase, State
+		</titlu_spectacol>
+		<adresa>
+			Strada Plopilor 12, Targu Mures - Uzina Foto
+		</adresa>
+		<participanti>
+			<comediant tip="headliner">
+				Radu Bucalae
+			</comediant>
+			<comediant tip="headliner">
+				George Tanase
+			</comediant>
+			<comediant tip="headliner">
+				State
+			</comediant>
+		</participanti>
+		<pret_bilet tip="sala" moneda="ron">
+			35
+		</pret_bilet>
+		<data format="iso">
+			2020-09-10
+			<ora>
+				 21:00
+			</ora>
+		</data>
+	</spectacol>
+	
+	<spectacol>
+		<titlu_spectacol>
+			STRICAM O GENERATIE
+		</titlu_spectacol>
+		<adresa>
+			Bulevardul Știrbei Vodă 32, Craiova - Sala Polivalenta
+		</adresa>
+		<participanti>
+			<comediant tip="headliner">
+				Dan Badea
+			</comediant>
+			<comediant tip="headliner">
+				Catalin Bordea
+			</comediant>
+			<comediant tip="headliner">
+				Cosmin Nedelcu Micutzu
+			</comediant>
+		</participanti>
+		<pret_bilet tip="loja" moneda="ron">
+			120
+		</pret_bilet>
+		<pret_bilet tip="sala" moneda="ron">
+			50
+		</pret_bilet>
+		<data format="iso">
+			2020-10-07
+			<ora>
+				 20:00
+			</ora>
+		</data>
+	</spectacol>
+	
+	
+	
+	<spectacol>
+		<titlu_spectacol>
+			Bacau: Stand-up Comedy cu Micutzu, Geo, Mirica și Cirje
+		</titlu_spectacol>
+		<adresa>
+			Strada Erou Gheorghe Rusu 2, Bacău 600036 - Beraria Valhalla
+		</adresa>
+		<participanti>
+			<comediant tip="headliner">
+				Cosmin Nedelcu Micutzu
+			</comediant>
+			<comediant tip="opener">
+				George Adrian
+			</comediant>
+			<comediant tip="opener">
+				Sergiu Mirica
+			</comediant>
+			<comediant tip="opener">
+				Cirje
+			</comediant>
+		</participanti>
+		<pret_bilet tip="loja" moneda="ron">
+			120
+		</pret_bilet>
+		<pret_bilet tip="sala" moneda="ron">
+			50
+		</pret_bilet>
+		<data format="iso">
+			2020-10-07
+			<ora>
+				 20:00
+			</ora>
+		</data>
+	</spectacol>
+	
+	<spectacol>
+		<titlu_spectacol>
+			In aer liber
+		</titlu_spectacol>
+		<adresa>
+			Bulevardul Știrbei Vodă 32, Craiova - Esplanada Salii Polivalente
+		</adresa>
+		<participanti>
+			<comediant tip="headliner">
+				Dan Badea
+			</comediant>
+			<comediant tip="opener">
+				Bogdan Malaele
+			</comediant>
+		</participanti>
+		<pret_bilet tip="afara" moneda="ron">
+			120
+		</pret_bilet>
+		<data format="iso">
+			2020-07-14
+			<ora>
+				 21:30
+			</ora>
+		</data>
+	</spectacol>
+	
+	<spectacol>
+		<titlu_spectacol>
+			Malaele Special
+		</titlu_spectacol>
+		<adresa>
+			Strada Sfântul Dumitru 2, București 030079 - Teatrul de comedie
+		</adresa>
+		<participanti>
+			<comediant tip="headliner">
+				Horatiu Malaele
+			</comediant>
+			<comediant tip="headliner">
+				Bogdan Malaele
+			</comediant>
+		</participanti>
+		<pret_bilet tip="loja" moneda="ron">
+			134
+		</pret_bilet>
+		<pret_bilet tip="sala" moneda="ron">
+			124
+		</pret_bilet>
+		<data format="iso">
+			2021-05-11
+			<ora>
+				 18:30
+			</ora>
+		</data>
+	</spectacol>
+
+</evidenta_spectacolelor>

@@ -1,0 +1,23 @@
+<!ELEMENT evidenta_spectacolelor (spectacol+) >
+	
+<!ELEMENT spectacol (titlu_spectacol, adresa, participanti, pret_bilet+, data)>
+<!ELEMENT titlu_spectacol (#PCDATA)>
+
+<!ELEMENT adresa (#PCDATA)>
+
+<!ELEMENT participanti (comediant+)>
+
+<!ELEMENT comediant (#PCDATA)>
+<!ATTLIST comediant 
+    tip CDATA #REQUIRED>
+	
+<!ELEMENT pret_bilet (#PCDATA)>
+<!ATTLIST pret_bilet 
+    tip CDATA #REQUIRED
+	moneda CDATA #REQUIRED>
+	
+<!ELEMENT data (#PCDATA|ora)*>
+<!ATTLIST data 
+    format CDATA #REQUIRED>
+	
+<!ELEMENT ora (#PCDATA)>
